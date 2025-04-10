@@ -9,7 +9,7 @@
 **Part 1: Exploring Rails and Its Abstractions**
 - [x] Chapter 1: Rails as a Web Application Framework
 - [x] Chapter 2: Active Models and Records
-- [ ] Chapter 3: More Adapters, Less Implementations
+- [x] Chapter 3: More Adapters, Less Implementations
 - [ ] Chapter 4: Rails Anti-Patterns?
 - [ ] Chapter 5: When Rails Abstractions Are Not Enough
 
